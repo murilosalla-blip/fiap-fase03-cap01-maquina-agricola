@@ -1,7 +1,6 @@
 ﻿# Nunca tratar imagens como texto
-*.jpg binary
+*.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpeg binary
-*.png binary
-
+*.png filter=lfs diff=lfs merge=lfs -text
 # Texto normal pode continuar automático
 * text=auto

@@ -1,0 +1,20 @@
+=== Perfis ideais (faixas) — milho, soja, café ===
+
+[MILHO]
+ - umidade_pct: 45 a 65
+ - temp_c: 24 a 30
+ - ph_sim: 5.5 a 7.0
+ - rain_mm: 2 a 20
+
+[SOJA]
+ - umidade_pct: 50 a 70
+ - temp_c: 22 a 28
+ - ph_sim: 6.0 a 7.5
+ - rain_mm: 2 a 25
+
+[CAFE]
+ - umidade_pct: 60 a 80
+ - temp_c: 18 a 24
+ - ph_sim: 5.0 a 6.5
+ - rain_mm: 5 a 30
+

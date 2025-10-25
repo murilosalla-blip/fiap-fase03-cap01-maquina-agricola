@@ -1,0 +1,8 @@
+== Comparação de Modelos ==
+LogisticRegression: 0.6667
+RandomForest: 0.9444
+KNN: 0.9444
+SVM: 0.8333
+GradientBoosting: 0.9444
+
+Melhor modelo: RandomForest (Acurácia 0.9444)

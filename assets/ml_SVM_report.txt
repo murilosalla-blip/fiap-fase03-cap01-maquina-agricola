@@ -1,0 +1,16 @@
+== SVM ==
+Acurácia: 0.8333
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.78      0.82         9
+           1       0.80      0.89      0.84         9
+
+    accuracy                           0.83        18
+   macro avg       0.84      0.83      0.83        18
+weighted avg       0.84      0.83      0.83        18
+
+Matriz de Confusão:
+[[7 2]
+ [1 8]]

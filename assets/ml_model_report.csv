@@ -1,0 +1,6 @@
+modelo,accuracy,macro_f1,balanced_acc
+LogisticRegression,1.0000,1.0000,1.0000
+RandomForest,1.0000,1.0000,1.0000
+GradientBoosting,1.0000,1.0000,1.0000
+KNN,1.0000,1.0000,1.0000
+SVC,0.8500,0.8496,0.8636

@@ -1,0 +1,5 @@
+=== Distribuição de rótulos sintéticos ===
+
+label
+soja     32
+milho    25

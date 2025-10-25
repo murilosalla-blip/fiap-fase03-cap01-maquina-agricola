@@ -1,2 +1,7 @@
-﻿# Auto detect text files and perform LF normalization
+﻿# Nunca tratar imagens como texto
+*.jpg binary
+*.jpeg binary
+*.png binary
+
+# Texto normal pode continuar automático
 * text=auto

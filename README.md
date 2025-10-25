@@ -4,6 +4,7 @@
 
 ### Etapas de uma Máquina Agrícola
 
+🗂️ GitHub: https://github.com/murilosalla-blip/fiap-fase03-cap01-maquina-agricola
 🎥 Vídeo demonstrativo FIAP_Fase 3_Tarefa_Cap 1 - Etapas de uma Máquina Agrícola: [Assista aqui](https://www.youtube.com/watch?v=m3aPuPz5YMA)
 🎥 Vídeo demonstrativo FIAP_Fase 3_Tarefa_Cap 1 - Opção 2 – Machine Learning no Agronegócio: [Assista aqui](https://youtu.be/luf3FC099vo)
 

@@ -43,7 +43,24 @@ SELECT * FROM FASE2_SENSORES;
 SELECT COUNT(*) FROM FASE2_SENSORES;
 ```
 
-* Evidências documentadas em `/assets`.
+#### 📸 Prints do Oracle (evidências no README)
+
+- Importação do CSV da Fase 2 (assistente)
+  ![Import Wizard — preview](assets/print_01_assistente_preview.jpg)
+
+- Consulta geral da tabela
+  ![SELECT * FROM FASE2_SENSORES](assets/print_02_select_all.jpg)
+
+- Contagem de registros
+  ![SELECT COUNT(*) FROM FASE2_SENSORES](assets/print_05_count.jpg)
+
+- Confirmação de conexão e navegação às tabelas
+  ![Navegação/Conexões no Oracle](assets/print_03_conexoes.jpg)
+
+- Tabela criada pela importação do CSV (sem CREATE TABLE manual)
+  ![Tabela criada pela importação](assets/print_04_tabela_criada.jpg)
+
+> **Base utilizada:** `data/fase2_sensores_20251025_084829.csv` (arquivo gerado a partir da Fase 2).
 
 ### 🚀 Ir Além — Dashboard em Streamlit
 

@@ -1,6 +1,4 @@
-﻿*.csv
-*.tsv
-*.xls
-*.xlsx
+﻿*.tsv
 .DS_Store
+*.pdf
 Thumbs.db

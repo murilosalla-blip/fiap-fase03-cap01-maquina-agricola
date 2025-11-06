@@ -4,18 +4,19 @@
 
 ### Etapas de uma Máquina Agrícola
 
-🗂️ GitHub: https://github.com/murilosalla-blip/fiap-fase03-cap01-maquina-agricola
+🗂️ GitHub: [Assista aqui](https://github.com/murilosalla-blip/fiap-fase03-cap01-maquina-agricola) 
 🎥 Vídeo demonstrativo FIAP_Fase 3_Tarefa_Cap 1 - Etapas de uma Máquina Agrícola: [Assista aqui](https://www.youtube.com/watch?v=m3aPuPz5YMA)
 🎥 Vídeo demonstrativo FIAP_Fase 3_Tarefa_Cap 1 - Opção 2 – Machine Learning no Agronegócio: [Assista aqui](https://youtu.be/luf3FC099vo)
 
 ---
 
-## 👨‍🎓 Integrantes
-
-* Murilo Salla (RM568041)
+* Grupo:
+* RM568500 - Elias da Silva de Souza
+* RM567816 - Julia Duarte de Carvalho
+* RM568041 - Murilo Salla
+* RM567895 - Vitório Stevanatto Compri Paciulo
 
 ## 👩‍🏫 Professores
-
 * Tutor(a): Ana Cristina dos Santos
 * Coordenador(a): André Godoi Chiovato
 
@@ -44,29 +45,7 @@ SELECT * FROM FASE2_SENSORES;
 SELECT COUNT(*) FROM FASE2_SENSORES;
 ```
 
-#### 📸 Evidências do Oracle (prints obrigatórios)
-
-- **Importação do CSV da Fase 2 — assistente (preview)**
-  
-  ![Assistente Oracle Preview](assets/print_01_assistente_preview.jpg)
-
-- **Definição do nome da tabela (sem `CREATE TABLE` manual)**
-  
-  ![Nome da Tabela Oracle](assets/print_02_assistente_nome_tabela.jpg)
-
-- **Confirmação de importação bem-sucedida**
-  
-  ![Importação Sucesso](assets/print_03_import_sucesso.jpg)
-
-- **Consulta completa da tabela (`SELECT * FROM FASE2_SENSORES;`)**
-  
-  ![Consulta SELECT](assets/print_04_select.jpg)
-
-- **Contagem de registros (`SELECT COUNT(*) FROM FASE2_SENSORES;`)**
-  
-  ![Consulta COUNT](assets/print_05_count.jpg)
-
-> **Base utilizada:** `data/fase2_sensores_20251025_084829.csv` (arquivo gerado a partir da Fase 2).
+* Evidências documentadas em `/assets`.
 
 ### 🚀 Ir Além — Dashboard em Streamlit
 
@@ -77,16 +56,6 @@ Dashboard interativo em Python:
 * Distribuições: histogramas de **Umidade**, **pH** e **Temperatura**.
 * Sugestões automáticas de irrigação e adubação.
 * Prints de tela documentados em `/assets`.
-
-#### 📸 Evidências do Dashboard (Streamlit)
-
-- **Home — indicadores e série temporal de umidade**
-  
-  ![Streamlit Home / Umidade](assets/print_streamlit_home_timeseries_umidade.jpg)
-
-- **Distribuições / pH / Temperatura / Sugestões**
-  
-  ![Streamlit Hist / pH / Temp / Sugestões](assets/print_streamlit_hist_ph_temp_sugestoes.jpg)
 
 ### 🤖 Ir Além — Machine Learning no Agronegócio
 
